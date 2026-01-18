@@ -27,7 +27,6 @@ The dataset contains longitudinal measurements of chicken growth, including:
 
 Each chicken is observed repeatedly over time, enabling both individual and group-level growth analysis.
 
-> The dataset is used for analytical and educational purposes.
 
 ---
 
