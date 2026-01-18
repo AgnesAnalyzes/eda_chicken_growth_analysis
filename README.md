@@ -69,19 +69,6 @@ A detailed interpretation of all findings is provided directly in the notebook.
 - seaborn  
 - Jupyter Notebook  
 
----
-
-## Repository Structure
-
-eda_chicken_growth_analysis/
-├── README.md
-├── data/
-│ └── raw/
-│ └── huhn.xlsx
-├── notebooks/
-│ └── eda_chicken_growth_analysis.ipynb
-└── figures/
-
 
 ---
 
